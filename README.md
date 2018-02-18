@@ -20,3 +20,6 @@ Open all the tabs you would like to have in your presentation and order them how
 ## FAQ
 ##### My tree view did not come back up when I left Presentation Mode. Why?
 A: I know. It is unfortunate but I have not figured out how to solve that yet. The only way I could find to hide it properly was to disable it and then re-enable it when you leave presentation mode. When enabled it does not show by default. You can toggle it back into view with `ctrl-\`.
+
+## Credits
+- [gianmarcotoso](https://atom.io/users/gianmarcotoso) for making [atom-hide-tabs](https://atom.io/packages/atom-hide-tabs) which I somewhat based parts of this code off of and was using in my cobbled together version of being able to do this before making this.
