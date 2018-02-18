@@ -1,0 +1,22 @@
+{
+    "name": "atom-presentation-mode",
+    "author": {
+        "name": "Joseph Bozarth",
+        "url" : "http://bozarthprime.github.io"
+    },
+    "main": "./lib/atom-presentation-mode",
+    "version": "1.0.0",
+    "description": "A package that disables tree view, hides tabs, and enters full screen mode for using atom as a presentation application",
+    "keywords": [
+    ],
+    "activationCommands": {
+        "atom-workspace": "atom-presentation-mode:toggle"
+    },
+    "repository": "https://github.com/bozarthprime/atom-presentation-mode",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "dependencies": {
+    }
+}

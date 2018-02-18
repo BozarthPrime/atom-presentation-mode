@@ -1,0 +1,26 @@
+{
+    "context-menu": {
+        "atom-text-editor": [
+            {
+                "label": "Toggle atom-presentation-mode",
+                "command": "atom-presentation-mode:toggle"
+            }
+        ]
+    },
+    "menu": [
+        {
+            "label": "Packages",
+            "submenu": [
+                {
+                    "label": "Presentation Mode",
+                    "submenu": [
+                        {
+                            "label": "Toggle",
+                            "command": "atom-presentation-mode:toggle"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
