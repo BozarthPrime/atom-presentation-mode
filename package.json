@@ -5,7 +5,7 @@
     "url": "http://bozarthprime.github.io"
   },
   "main": "./lib/atom-presentation-mode",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "A package that disables tree view, hides tabs, and enters full screen mode for using atom as a presentation application",
   "keywords": [],
   "activationCommands": {
