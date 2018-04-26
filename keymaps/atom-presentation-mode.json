@@ -3,7 +3,7 @@
         "ctrl-alt-\\": "atom-presentation-mode:toggle"
     },
     "body": {
-        "ctrl-tab": "pane:show-next-item",
-        "crtl-shift-tab": "pane:show-previous-item"
+        "ctrl-alt-space": "pane:show-next-item",
+        "crtl-alt-shift": "pane:show-previous-item"
     }
 }
