@@ -1,4 +1,4 @@
-# atom-presentation-mode
+# ![atom-presentation-mode-header](logo/atom-presentation-mode-header.png)
 
 A package that adds a toggle to enter a presentation mode.
 
